@@ -1,3 +1,3 @@
 
-#fullname:amanda wei 
+#fullname:amanda wei
 #section:ops435
